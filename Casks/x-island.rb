@@ -1,6 +1,6 @@
 cask "x-island" do
-  version "0.9.0"
-  sha256 "8a5fb9a5c27c3bfedd216e2f29bd10e3c3c58bdaa3fd61f302bad4d7e7e127e7"
+  version "0.9.1"
+  sha256 "9bd769fc479ff43967a6e0fc1d34ce3cff269ab20e19e004a340b955d7fb7acd"
 
   url "https://github.com/bluedusk/xisland/releases/download/v#{version}/XIsland.dmg"
   name "xIsland"
